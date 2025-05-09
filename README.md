@@ -12,7 +12,7 @@
       </ul>
       </br>
       <h3>Tools I use</h3>
-      <img src="https://skillicons.dev/icons?i=unity,rider,blender,python,pycharm" alt="Unity, Rider, Blender, Python, PyCharm">
+      <img src="https://skillicons.dev/icons?i=unity,vscode,blender,python,pycharm" alt="Unity, Rider, Blender, Python, PyCharm">
       <p><img src="https://skillicons.dev/icons?i=aoaoao,cs,pr,ps" alt="C#, Premiere Pro, Photoshop"></p>
     </td>
   </tr>
